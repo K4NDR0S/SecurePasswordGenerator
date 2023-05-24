@@ -7,6 +7,7 @@ If anyone want to use it then feel free to clone respository and add it as your 
 I'm reccomending using some password menager to save your passwords and use different passwords for other accounts coz why not.
 
 Interface looks very easy:
+
 1-  U can write how long your password should be (6-50 char)
 
 2-  U can add or remove special marks (some sites don't like passwords with them)
