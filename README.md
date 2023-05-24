@@ -17,8 +17,10 @@ Interface looks very easy:
 4-  U can copy password to clipboard by just clicking on it
 
 NOTES:
+
 -sometimes password ill not be showed in display - it's coz sometimes it ill generate special mark at beginning, but don't worry 
 it's not a bug, u can still hover it and click to copy - u ill just have more unique password
+
 -i'm not thinking of upgrading this extension coz it's works as should but if i ill in the future then i ill write what's added here
 
 made by K4NDR0S
