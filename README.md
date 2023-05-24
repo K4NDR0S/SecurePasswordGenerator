@@ -8,8 +8,11 @@ I'm reccomending using some password menager to save your passwords and use diff
 
 Interface looks very easy:
 1-  U can write how long your password should be (6-50 char)
+
 2-  U can add or remove special marks (some sites don't like passwords with them)
+
 3-  Just click generate how many times you want
+
 4-  U can copy password to clipboard by just clicking on it
 
 NOTES:
